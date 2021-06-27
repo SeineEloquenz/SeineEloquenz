@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on my bachelor's thesis about implementing a serialization mechanism for Java and verifying its correctness with the help of [KeY](https://www.key-project.org/).
+- 🌱 After having completed my [bachelor's thesis](https://github.com/SeineEloquenz/bachelor-thesis) on formal specification of serialization, I’m now studying for my master's degree in computer science at [KIT](https://kit.edu).
 - 👯 Furthermore I'm trying to alleviate student pain and dread by creating browser extensions that improve the usage of the ILIAS System at KIT which is atrocious at times. You'll find them pinned.
 
 <!--
