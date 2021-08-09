@@ -1,9 +1,9 @@
 
-### Hello there 👋, I'm Alexander Linder. I'm a CS Student at Karlsruhe Institute of Technology. Welcome to my gh page!
+### Hello there 👋, I'm Alexander Linder. I'm a M.Sc. Student at [Karlsruhe Institute of Technology](https://kit.edu). Welcome to my gh page!
 
 <br>
 
-- 🌱 After having completed my [bachelor's thesis](https://github.com/SeineEloquenz/bachelor-thesis) on formal specification of serialization, I’m now studying for my master's degree in computer science at [KIT](https://kit.edu).
+- 🌱 I'm currently studying for my Master's degree in Computer Science where I setup my main focus on software engineering.
 - 👯 Furthermore I'm trying to alleviate student pain and dread by creating browser extensions that improve the usage of the ILIAS System at KIT which is atrocious at times. You'll find them pinned.
 
 <!--
