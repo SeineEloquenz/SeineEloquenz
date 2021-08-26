@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I'm currently studying for my Master's degree in Computer Science where I setup my main focus on software engineering.
+- 🌱 I'm currently studying for my Master's degree in Computer Science. My main focus is gaining a skillset in software engineering joined by knowledge of IT security and telematics, to enable me to create secure, well-engineered software running on the internet.
 - 👯 Furthermore I'm trying to alleviate student pain and dread by creating browser extensions that improve the usage of the ILIAS System at KIT which is atrocious at times. You'll find them pinned.
 
 <!--
