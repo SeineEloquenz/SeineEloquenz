@@ -4,6 +4,7 @@
 <br>
 
 - 🌱 I'm currently studying for my Master's degree in Computer Science. My main focus is gaining a skillset in software engineering joined by knowledge of IT security and telematics, to enable me to create secure, well-engineered software running on the internet.
+- 🤿 Diving deep into Nix and NixOS right now.
 - 👯 Furthermore I'm trying to alleviate student pain and dread by creating browser extensions that improve the usage of the ILIAS System at KIT which is atrocious at times. You'll find them pinned.
 
 <!--
@@ -18,5 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
