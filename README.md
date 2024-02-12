@@ -3,8 +3,9 @@
 
 <br>
 
-- 🌱 I'm currently preparing my Thesis on Anonymous Communications in Mobile Ad-Hoc Networks at the [Chair of Practical IT-Security at KIT](https://ps.kastel.kit.edu).
+- 🏗️ I'm currently working on my Thesis on Anonymous Communications in Mobile Ad-Hoc Networks at the [Chair of Practical IT-Security at KIT](https://ps.kastel.kit.edu), due in Summer of 2024.
 - 🤿 Still diving deep into Nix and NixOS, having packaged some software in flakes.
+- 🌱 Additionally, I'm learning a lot about the Android ecosystem and the modern Jetpack Compose UI-Stack, by creating Mobile Application like Embertalk and [FossWallet](https://github.com/SeineEloquenz/fosswallet).
 - 👯 Furthermore I'm trying to alleviate student pain and dread by creating browser extensions that improve the usage of the ILIAS System at KIT which is atrocious at times. You'll find them pinned.
 
 <!--
