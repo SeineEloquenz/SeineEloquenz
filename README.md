@@ -4,9 +4,9 @@
 <br>
 
 - 🏗️ I'm currently working on my Thesis on Anonymous Communications in Mobile Ad-Hoc Networks at the [Chair of Practical IT-Security at KIT](https://ps.kastel.kit.edu), due in Summer of 2024.
-- 🤿 Still diving deep into Nix and NixOS, having packaged some software in flakes.
-- 🌱 Additionally, I'm learning a lot about the Android ecosystem and the modern Jetpack Compose UI-Stack by creating Mobile Applications like [Embertalk](https://github.com/SeineEloquenz/embertalk), [FossWallet](https://github.com/SeineEloquenz/fosswallet) and [JustShop](https://github.com/SeineEloquenz/justshop).
-- 👯 Furthermore I'm trying to alleviate student pain and dread by creating browser extensions that improve the usage of the ILIAS System at KIT which is atrocious at times. You'll find them pinned.
+- 🤿 Still diving deep into Nix and NixOS, having packaged some software in flakes, and started maintaining in [nixpkgs](https://github.com/NixOS/nixpkgs).
+- 🌱 Additionally, I'm learning a lot about the Android ecosystem and the modern Jetpack Compose UI-Stack by creating Mobile Applications like [Embertalk](https://github.com/emebrtalk-org/embertalk), [FossWallet](https://github.com/SeineEloquenz/fosswallet) and [JustShop](https://github.com/SeineEloquenz/justshop).
+- 👯 Furthermore I've created browser extensions that improve the usage of the ILIAS System at KIT which is atrocious at times.
 
 <!--
 **SeineEloquenz/SeineEloquenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
