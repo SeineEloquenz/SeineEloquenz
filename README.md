@@ -1,9 +1,10 @@
 
-### Hello there 👋, I'm Alexander Linder. I'm a M.Sc. Student at [Karlsruhe Institute of Technology](https://kit.edu). Welcome to my gh page!
+### Hello there 👋, I'm Alexander Linder. Welcome to my gh page!
 
 <br>
 
-- 🏗️ I'm currently working on my Thesis on Anonymous Communications in Mobile Ad-Hoc Networks at the [Chair of Practical IT-Security at KIT](https://ps.kastel.kit.edu), due in Summer of 2024.
+- 🏗️ I'm currently working at [Vector Informatik](https://vector.com) as a Software Engineer.
+- I've done my Master's Thesis on Anonymous Communications in Mobile Ad-Hoc Networks at the [Chair of Practical IT-Security at KIT](https://ps.kastel.kit.edu).
 - 🤿 Still diving deep into Nix and NixOS, having packaged some software in flakes, and started maintaining in [nixpkgs](https://github.com/NixOS/nixpkgs).
 - 🌱 Additionally, I'm learning a lot about the Android ecosystem and the modern Jetpack Compose UI-Stack by creating Mobile Applications like [Embertalk](https://github.com/emebrtalk-org/embertalk), [FossWallet](https://github.com/SeineEloquenz/fosswallet) and [JustShop](https://github.com/SeineEloquenz/justshop).
 - 👯 Furthermore I've created browser extensions that improve the usage of the ILIAS System at KIT which is atrocious at times.
